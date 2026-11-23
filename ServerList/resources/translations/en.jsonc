@@ -1,0 +1,8 @@
+{
+  "serverlist.header": "[green]Serverebis Sia:",
+  "serverlist.entry_online": "[gold]• {0} [grey]| [default]{1}/{2} [grey]| [yellow]{3}[lightred]{4}",
+  "serverlist.entry_offline": "[gold]• {0} [grey]| [lightred]Offline[lightred]{1}",
+  "serverlist.entry_ip": "[default]IP: [green]{0}",
+  "serverlist.current_tag": "[Exla AqXar]",
+  "serverlist.cooldown": "[lightred]Gtxovt daicadet {0} wami."
+}
