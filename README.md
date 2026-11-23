@@ -1,7 +1,14 @@
-# ServerList (SwiftlyS2)
+<div align="center">
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/7b387b52-f43e-4a9e-b3df-c16759171ee1" />
+# ⚡ ConnectAnnouncer
 
+**High-Performance CS2 Player Connection Announcer with GeoIP for SwiftlyS2**
+
+[![SwiftlyS2](https://img.shields.io/badge/SwiftlyS2-Compatible-blue.svg)](https://swiftlys2.net)
+[![Release](https://img.shields.io/github/v/release/xaboo1337/CS2-ConnectAnnouncer?color=green)](https://github.com/xaboo1337/CS2-ConnectAnnouncer/releases)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg)]()
+
+</div>
 
 A lightweight CS2 plugin for **SwiftlyS2** that queries server statuses in real time using Steam A2S (`A2S_INFO`) and displays live player counts, current maps, and IP addresses via chat command.
 
