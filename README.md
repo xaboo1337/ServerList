@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ConnectAnnouncer
+# ⚡ ServerList
 
 **High-Performance CS2 Player Connection Announcer with GeoIP for SwiftlyS2**
 
