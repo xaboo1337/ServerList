@@ -9,6 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)]()
 
 </div>
+<img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/d84b77c9-9efb-45ff-ad7e-d817f2081814" />
 
 A lightweight CS2 plugin for **SwiftlyS2** that queries server statuses in real time using Steam A2S (`A2S_INFO`) and displays live player counts, current maps, and IP addresses via chat command.
 
